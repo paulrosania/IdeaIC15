@@ -1,2 +1,6 @@
-statistics.application.usages.xml
+dimensions.xml
 recentProjects.xml
+runner.layout.xml
+
+feature.usage.statistics.xml
+statistics.application.usages.xml
