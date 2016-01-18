@@ -1,0 +1,36 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>rendericon</find>
+      <find>uiskin</find>
+      <find>name</find>
+      <find>default.fnt</find>
+      <find>game</find>
+      <find>world</find>
+      <find>position</find>
+      <find>scalex</find>
+      <find>scalexget</find>
+      <find>rendertilelayer</find>
+      <find>viewbounds</find>
+      <find>zoom</find>
+      <find>statictile</find>
+      <find>static</find>
+      <find>g2d</find>
+      <find>gettile</find>
+      <find>getTile(</find>
+      <find>inviso</find>
+      <find>isotrans</find>
+      <find>drop</find>
+      <find>dropbo</find>
+      <find>dropb</find>
+      <find>dropbox</find>
+      <find>Dropbox/</find>
+      <find>getvalueasstr</find>
+      <find>string</find>
+      <find>path</find>
+      <find>switch</find>
+      <find>width</find>
+      <find>camera</find>
+    </findStrings>
+  </component>
+</application>
